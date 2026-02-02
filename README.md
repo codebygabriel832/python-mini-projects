@@ -1,1 +1,1 @@
-# python-mini-projects
+This repository contains Python mini-projects I built while learning Python
